@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: 843bef8fcff112c4f8a42bbfb7e3bebe
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cylinder.012
+    100002: Cylinder.013
+    100004: Cylinder.014
+    100006: Cylinder.015
+    100008: Cylinder.016
+    100010: Cylinder.017
+    100012: Cylinder.018
+    100014: Cylinder.019
+    100016: Cylinder.020
+    100018: Cylinder.021
+    100020: Cylinder.022
+    100022: Cylinder.023
+    100024: Cylinder.024
+    100026: Cylinder.025
+    100028: Cylinder.026
+    100030: Cylinder.027
+    100032: Cylinder.028
+    100034: Cylinder.029
+    100036: Cylinder.030
+    100038: //RootNode
+    100040: Kosz
+    100042: "\u015Bmieci"
+    100044: "\u015Bmie\u0107 1"
+    100046: "\u015Bmie\u0107 10"
+    100048: "\u015Bmie\u0107 2"
+    100050: "\u015Bmie\u0107 3"
+    100052: "\u015Bmie\u0107 4"
+    100054: "\u015Bmie\u0107 5"
+    100056: "\u015Bmie\u0107 6"
+    100058: "\u015Bmie\u0107 7"
+    100060: "\u015Bmie\u0107 8"
+    100062: "\u015Bmie\u0107 9"
+    400000: Cylinder.012
+    400002: Cylinder.013
+    400004: Cylinder.014
+    400006: Cylinder.015
+    400008: Cylinder.016
+    400010: Cylinder.017
+    400012: Cylinder.018
+    400014: Cylinder.019
+    400016: Cylinder.020
+    400018: Cylinder.021
+    400020: Cylinder.022
+    400022: Cylinder.023
+    400024: Cylinder.024
+    400026: Cylinder.025
+    400028: Cylinder.026
+    400030: Cylinder.027
+    400032: Cylinder.028
+    400034: Cylinder.029
+    400036: Cylinder.030
+    400038: Kosz
+    400040: //RootNode
+    400042: "\u015Bmieci"
+    400044: "\u015Bmie\u0107 1"
+    400046: "\u015Bmie\u0107 10"
+    400048: "\u015Bmie\u0107 2"
+    400050: "\u015Bmie\u0107 3"
+    400052: "\u015Bmie\u0107 4"
+    400054: "\u015Bmie\u0107 5"
+    400056: "\u015Bmie\u0107 6"
+    400058: "\u015Bmie\u0107 7"
+    400060: "\u015Bmie\u0107 8"
+    400062: "\u015Bmie\u0107 9"
+    2100000: No Name
+    2300000: Cylinder.012
+    2300002: Cylinder.013
+    2300004: Cylinder.014
+    2300006: Cylinder.015
+    2300008: Cylinder.016
+    2300010: Cylinder.017
+    2300012: Cylinder.018
+    2300014: Cylinder.019
+    2300016: Cylinder.020
+    2300018: Cylinder.021
+    2300020: Cylinder.022
+    2300022: Cylinder.023
+    2300024: Cylinder.024
+    2300026: Cylinder.025
+    2300028: Cylinder.026
+    2300030: Cylinder.027
+    2300032: Cylinder.028
+    2300034: Cylinder.029
+    2300036: Cylinder.030
+    2300038: Kosz
+    2300040: "\u015Bmieci"
+    2300042: "\u015Bmie\u0107 1"
+    2300044: "\u015Bmie\u0107 10"
+    2300046: "\u015Bmie\u0107 2"
+    2300048: "\u015Bmie\u0107 3"
+    2300050: "\u015Bmie\u0107 4"
+    2300052: "\u015Bmie\u0107 5"
+    2300054: "\u015Bmie\u0107 6"
+    2300056: "\u015Bmie\u0107 7"
+    2300058: "\u015Bmie\u0107 8"
+    2300060: "\u015Bmie\u0107 9"
+    3300000: Cylinder.012
+    3300002: Cylinder.013
+    3300004: Cylinder.014
+    3300006: Cylinder.015
+    3300008: Cylinder.016
+    3300010: Cylinder.017
+    3300012: Cylinder.018
+    3300014: Cylinder.019
+    3300016: Cylinder.020
+    3300018: Cylinder.021
+    3300020: Cylinder.022
+    3300022: Cylinder.023
+    3300024: Cylinder.024
+    3300026: Cylinder.025
+    3300028: Cylinder.026
+    3300030: Cylinder.027
+    3300032: Cylinder.028
+    3300034: Cylinder.029
+    3300036: Cylinder.030
+    3300038: Kosz
+    3300040: "\u015Bmieci"
+    3300042: "\u015Bmie\u0107 1"
+    3300044: "\u015Bmie\u0107 10"
+    3300046: "\u015Bmie\u0107 2"
+    3300048: "\u015Bmie\u0107 3"
+    3300050: "\u015Bmie\u0107 4"
+    3300052: "\u015Bmie\u0107 5"
+    3300054: "\u015Bmie\u0107 6"
+    3300056: "\u015Bmie\u0107 7"
+    3300058: "\u015Bmie\u0107 8"
+    3300060: "\u015Bmie\u0107 9"
+    4300000: Cylinder.012
+    4300002: Cylinder.013
+    4300004: Cylinder.014
+    4300006: Cylinder.015
+    4300008: Cylinder.016
+    4300010: Cylinder.017
+    4300012: Cylinder.018
+    4300014: Cylinder.019
+    4300016: Cylinder.020
+    4300018: Cylinder.021
+    4300020: Cylinder.022
+    4300022: Cylinder.023
+    4300024: Cylinder.024
+    4300026: Cylinder.025
+    4300028: Cylinder.026
+    4300030: Cylinder.027
+    4300032: Cylinder.028
+    4300034: Cylinder.029
+    4300036: Cylinder.030
+    4300038: "\u015Bmieci"
+    4300040: "\u015Bmie\u0107 1"
+    4300042: "\u015Bmie\u0107 10"
+    4300044: "\u015Bmie\u0107 2"
+    4300046: "\u015Bmie\u0107 3"
+    4300048: "\u015Bmie\u0107 4"
+    4300050: "\u015Bmie\u0107 5"
+    4300052: "\u015Bmie\u0107 6"
+    4300054: "\u015Bmie\u0107 7"
+    4300056: "\u015Bmie\u0107 8"
+    4300058: "\u015Bmie\u0107 9"
+    4300060: Kosz
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
